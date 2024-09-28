@@ -4,40 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9bf1188-8d0b-447a-bc36-8b668dd74209" name="Changes" comment="flask framework">
-      <change afterPath="$PROJECT_DIR$/10_module/python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_module/python_pract_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_module/python_pract_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_module/python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_module/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_module/templates/static/js/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_module/pytho_1_prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_module/python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_module/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_module/templates/student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_module/templates/student_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Module/pyhton_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Module/python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_module/Python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_module/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_module/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_module/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_module/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_module/templates/student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_module/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_module/practice/database_2_prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_module/practice/python_pract_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_module/python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_module/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_module/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_module/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_module/templates/student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_module/python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_module/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_module/templates/readcookie.html" afterDir="false" />
+    <list default="true" id="a9bf1188-8d0b-447a-bc36-8b668dd74209" name="Changes" comment="flask framework with mail">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_module/python_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_module/python_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_module/templates/home_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_module/templates/home_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_module/python_pract_1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726894553485</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="flask framework with mail">
+      <option name="closed" value="true" />
+      <created>1727502680751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727502680751</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +275,8 @@
     <MESSAGE value="hello" />
     <MESSAGE value="hello flask" />
     <MESSAGE value="flask framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="flask framework" />
+    <MESSAGE value="flask framework with mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="flask framework with mail" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
