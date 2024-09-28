@@ -7,11 +7,13 @@
 <body>
 <table border="1">
     {% for key, value in result.items() %}
+    <tr>
 
             <th>{{ key }}</th>
-            <tr>
+
             <td> {{ value }}</td>
-            </tr>
+    </tr>
+
     {% endfor %}
 </table>
 

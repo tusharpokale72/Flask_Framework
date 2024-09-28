@@ -4,19 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9bf1188-8d0b-447a-bc36-8b668dd74209" name="Changes" comment="hello flask">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_module/template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Module/python2_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Module/python_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_Module/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_module/python_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_module/python_1_pract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_module/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_module/templates/home_1.html" afterDir="false" />
+    <list default="true" id="a9bf1188-8d0b-447a-bc36-8b668dd74209" name="Changes" comment="flask framework">
+      <change afterPath="$PROJECT_DIR$/10_module/python_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_module/python_pract_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_module/python_pract_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_module/python_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_module/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_module/templates/static/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_module/pytho_1_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_module/python_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_module/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_module/templates/student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_module/templates/student_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Module/pyhton_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Module/python_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_module/Python_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_module/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_module/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_module/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_module/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_module/templates/student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_module/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_module/practice/database_2_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_module/practice/python_pract_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_module/python_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_module/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_module/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_module/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_module/templates/student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_module/python_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_module/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_module/templates/readcookie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_module/python_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_module/python_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_module/templates/home_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_module/templates/home_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +47,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -58,24 +79,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.python_1 (1).executor": "Run",
-    "Python.python_1.executor": "Run",
-    "Python.python_1_pract.executor": "Run",
-    "Python.python_1_practice.executor": "Run",
-    "Python.python_2.executor": "Run",
-    "Python.python_3 (1).executor": "Run",
-    "Python.python_3.executor": "Run",
-    "Python.python_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.Python_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database_2_prac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyhton_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pytho_1_prac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_1 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_1 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_1_pract.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_1_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_pract_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_pract_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.python_1_pract">
-    <configuration name="python_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\PycharmProjects\Flask_Framework\4_module\templates\static\js" />
+      <recent name="C:\Users\hp\PycharmProjects\Flask_Framework\8_module\practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.python_1 (3)">
+    <configuration name="python_1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Flask_Framework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,11 +121,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Module/python_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_module/python_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_Framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_module/python_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_module/python_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_module/python_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_1_pract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_pract_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Flask_Framework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_module/python_1_pract.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_module/python_pract_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_pract_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Flask_Framework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,33 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Module/python_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="python_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Flask_Framework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_Module" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Module/python_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_module/python_pract_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python_1_pract" />
+        <item itemvalue="Python.python_1 (3)" />
         <item itemvalue="Python.python_1" />
-        <item itemvalue="Python.python_1 (1)" />
-        <item itemvalue="Python.python_3 (1)" />
-        <item itemvalue="Python.python_2" />
+        <item itemvalue="Python.python_pract_2" />
+        <item itemvalue="Python.python_pract_1" />
+        <item itemvalue="Python.python_1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726814198108</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="flask framework">
+      <option name="closed" value="true" />
+      <created>1726894553485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726894553485</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,7 +297,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <MESSAGE value="hello flask" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello flask" />
+    <MESSAGE value="flask framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="flask framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
